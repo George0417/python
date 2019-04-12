@@ -1,2 +1,4 @@
-# python
-learning step of python
+# Hello World
+
+
+collect case studies on machine learning 
